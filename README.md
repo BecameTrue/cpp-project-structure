@@ -1,6 +1,6 @@
 # cpp-project-structure
 
-Clone to build C++ project. Testing is available with (GoogleTest)[https://github.com/google/googletest].
+Clone to build C++ project. Testing is available with [GoogleTest](https://github.com/google/googletest).
 
 ## Contents of directory
 
