@@ -2,6 +2,10 @@
 
 Clone to build C++ project. Testing is available with [GoogleTest](https://github.com/google/googletest).
 
+```bash
+~$ git clone --recurse-submodules https://github.com/BecameTrue/cpp-project-structure
+```
+
 ## Contents of directory
 
 ```
